@@ -1,4 +1,4 @@
-module github.com/keypool-com/filecoin-dummy-ffi
+module github.com/keypool-com/filecoin-ffi
 
 go 1.17
 
